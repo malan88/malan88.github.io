@@ -204,7 +204,7 @@ interesting things with it.&lt;/p&gt;
 &lt;li&gt;Arch Linux with i3 and urxvt (Linux is a standard, though i3 and urxvt
   probably aren’t)&lt;/li&gt;
 &lt;li&gt;Neovim with which I am literally typing this (based on, of course, Vim, based
-  on, of course, Vi; the standard is, of course, &lt;a href="https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"&gt;The Zen of Vi&lt;/a&gt;.&lt;/li&gt;
+  on, of course, Vi; the standard is, of course, &lt;a href="https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"&gt;The Zen of Vi&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;Flask&lt;/li&gt;
@@ -228,7 +228,7 @@ names like Frodo or My Stuff and put them pretty much anywhere you like. But
 under Unix the highest level—the root—of the filesystem is always designated
 with the single character “&lt;code&gt;/&lt;/code&gt;” and it always contains the same top level
 directories:&lt;/p&gt;
-&lt;p&gt;/usr /etc /var /bin /proc /boot /home /root /sbin /dev /lib /tmp&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/usr /etc /var /bin /proc /boot /home /root /sbin /dev /lib /tmp&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Each of these directories typically has its own distinct structure of
 subdirectories. Note the obsessive use of abbreviations and avoidance of
 capital letters; this is a system invented by people to whom repetitive stress
@@ -335,7 +335,7 @@ eliminated without causing serious economic problems, and yet, through
 profit-hungry motives proceeds to degrade its own product, &lt;em&gt;it must be
 institutionalized&lt;/em&gt;. It must be &lt;em&gt;standardized&lt;/em&gt;. Of the FAANGs, several, in
 particular Google, Amazon, and Facebook, are nearing the point where their
-continuous degredation is becoming so grave a problem that it will soon be time
+continuous degradation is becoming so grave a problem that it will soon be time
 to nationalize them. Or at the very least regulate them as heavily as we once
 regulated Ma Bell.&lt;/p&gt;
 &lt;p&gt;Don’t even get me started on the telecoms.&lt;/p&gt;</content><category term="first"></category><category term="introduction"></category></entry></feed>
