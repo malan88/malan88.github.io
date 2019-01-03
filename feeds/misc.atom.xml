@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>thoughts - misc</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2018-01-02T15:45:00-05:00</updated><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2018-01-02T15:45:00-05:00</published><updated>2018-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2018-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is literally my first post on a blog since I was a teenager.&lt;/p&gt;
+&lt;p&gt;I’ll start by introducing myself. I’ll remain somewhat anonymous, going by
+malan (malan is surprisingly popular as a username and I don’t at all get why,
+so a common handle for me is &lt;code&gt;malan88&lt;/code&gt;; yes, I was born in 1988). I’m a
+beginning developer (as in, mostly a hobbyist for the past few years, currently
+working on a major web application project but without any formal training).&lt;/p&gt;
+&lt;p&gt;Over the past two weeks I’ve been messing around with various technologies, and
+repeatedly thought to myself, &lt;em&gt;this&lt;/em&gt; would be a good blog post. When you have to
+google documentation and walkthroughs for to do a lot of things (e.g., setting
+up gpg, using a web scraper, etc.), you become somewhat familiar with the
+conventions of tech bloggers. A lot of them suck. Most of the tech blog
+walkthroughs are written by people with middling understandings of English
+(forgivable) and seem like they were written &lt;em&gt;strictly&lt;/em&gt; for SEO. It’s somewhat
+disheartening. The final straw was having to, once again, search for a
+comparison of technologies (&lt;code&gt;Jekyll&lt;/code&gt; vs &lt;code&gt;Pelican&lt;/code&gt;) and read a list of
+&lt;em&gt;descriptions&lt;/em&gt; of the technologies rather than an actual comparison. Well,
+thanks, guy, for literally copying the descriptions of the projects from their
+GitHub &lt;code&gt;README.md&lt;/code&gt;’s. I could have done that myself.&lt;/p&gt;
+&lt;p&gt;So anyway, last night I counted on my fingers seven recent endeavors that could
+serve as blog posts and decided to make one. It’ll hopefully be useful for &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;documenting my technological endeavors,&lt;/li&gt;
+&lt;li&gt;serve as an outlet for a rather pent up need to talk about various things
+   (this blog will also end up with political and philosophical and
+   artistical-critical [is that a thing?] posts), and&lt;/li&gt;
+&lt;li&gt;maybe one day serve as a semi-portfolio (personal tech blogs are all the
+   rage, to which the existence of GitHub Pages should attest).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As you will hopefully have recognized by now, I am a pedant. I am obsessed with
+high culture in all its forms. I’m obsessed with wine, coffee, cheese,
+literature, cinema, and art. I majored in philosophy at FSU. I come to
+technology through rather interesting channels upon which I may (or may not)
+eventually elaborate. Open source technology is another high brow subject in my
+opinion. Don’t know why that is, but it is. So perhaps I’ll just express a few
+of my feelings on FOSS to get the ball rolling.&lt;/p&gt;
+&lt;p&gt;One of the fundamental things in this world that I believe in, something that I
+believe stimulates growth above and beyone nearly anything government or society
+can do, is &lt;em&gt;standardization&lt;/em&gt;. We might also call it platformization. The basic
+idea I’m driving at is that what stimulates growth in any realm is for there to
+be a commons: whether it be a standard specification or a standard platform.&lt;/p&gt;
+&lt;p&gt;To explain specifications, think of those for the plugs in our walls, the parts
+in our computer, or even the typesetting of books. This last one is not an
+officially recognized specification, but books absolutely do follow some general
+guidelines, and you’d better have a good reason to break them―specification #1:
+you’d better have a damn good reason to print your title backwards on the spine.&lt;/p&gt;
+&lt;p&gt;Some platforms are the highway system, the electrical grid, even the
+financial markets. We might call the last one an institution. (Institutions are
+essentially social platforms that become so ingrained in a culture that the
+culture builds upon it.) &lt;/p&gt;
+&lt;p&gt;Standardization allows for competition and innovation within a marketplace. It’s
+what propels an economy forward. The highway system and the electrical grid are
+a common example. They’re platforms that the government &lt;em&gt;had&lt;/em&gt; to build itself
+because no private entity would ever commit the funds necessary to produce it.
+And yet, once it was built, &lt;em&gt;EVERYONE&lt;/em&gt; benefited, especially industry.&lt;/p&gt;
+&lt;p&gt;This is a common Democratic refrain; Obama essentially said this exact thing in
+his “you didn’t build that” speech that the Republicans misquoted and exploited.
+The Libertarian loves to think that only private initiative is worth
+celebrating, or even allowing; he never has an actual answer to the Democrat who
+asks what he thinks about roads, clean water, electricity, etc.&lt;/p&gt;
+&lt;p&gt;Here’s a common Libertarian argument (perhaps more accurately described as
+Objectivist): &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The natural order has an equilibrium.&lt;/li&gt;
+&lt;li&gt;When humans muck about with a natural order, dictating things from the top
+   down, the equilibrium is disrupted.&lt;/li&gt;
+&lt;li&gt;The economy is a natural order.&lt;/li&gt;
+&lt;li&gt;Therefore, the economy should not be mucked about with.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here’s the problem with this sentiment: it presupposes that the economic natural
+order excludes governmental intervention. This presupposition is based on a
+deeper presupposition: &lt;em&gt;that government&lt;/em&gt; itself &lt;em&gt;is not natural&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;We can disprove this very simply: since mankind transitioned from the hunter
+gatherer stage, we have had governments. As a peculiarly social creature, with
+an incredible capacity for adaptation above, beyond, and even in direct conflict
+with, our genetically-predisposed behaviors, government is an integral structure
+in human society and culture.&lt;/p&gt;
+&lt;p&gt;My point, in ragging on this Libertarian line of thought is that
+&lt;em&gt;standardization&lt;/em&gt; is the perfect example of a necessary function government
+serves in the economy. &lt;a href="https://en.wikipedia.org/wiki/Jaron_Lanier"&gt;Jaron
+Lanier&lt;/a&gt; in his fantastic book &lt;a href="https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F"&gt;&lt;em&gt;Who
+Owns the Future?&lt;/em&gt;&lt;/a&gt; makes an excellent case for this. A standardized platform
+allows people to compete in a way they can’t when the &lt;em&gt;platform&lt;/em&gt; is trying to
+compete with them.&lt;/p&gt;
+&lt;p&gt;Specifically think of the highway system. There are tolls, yes, but just to keep
+the roads in good repair. If a private organization owned the highway system,
+businesses would have to factor the cost of tolls into the price of their goods
+in a way they don’t now. The road owners would probably start their own
+transportation company, exploit their position as road-owners, and dominate the
+transportation market as well. The tolls would be exorbitant for everyone else,
+unlike reality now, where the transportation industry is very competitive. The
+transfer of wealth to commerce in artificially low tolls is enormous and has
+fueled much of the growth of the twentieth century (beside that fueled by
+advancements in technology, globalization, etc.).&lt;/p&gt;
+&lt;p&gt;Now consider Google. It’s a platform, and a fairly standard one. Amazon is too.
+By standard I mean that it’s a platform (product, specification, etc.) used by
+the majority (if not super-majority) of people in the economy. We’re living in a
+strange time in that, where in the past standards generally had to be built (or
+at least heavily subsidized) by governments (think railroads, electical grid,
+highway system, USPS), standards now are being built by private organizations.
+This is because of the nature of software: it does not require an incredible
+amount of capitol and labor to build a software product that can be used by the
+majority of people; it just requires good design. The FAANGs are &lt;em&gt;absolutely&lt;/em&gt;
+integral to the economy at this point, and at least three of them started in
+garages. Which is awesome, because clearly the affordability of innovation is
+producing incredible growth in the economy, right?&lt;/p&gt;
+&lt;p&gt;The problem is that the FAANGs are all profit-seeking entities. They are not
+concerned with building the best product, only the &lt;em&gt;most profitable&lt;/em&gt; product.
+Because of that, they don’t allow competition with their platform &lt;em&gt;on&lt;/em&gt; their
+platform, and they feel entitled to compete on their platform with those
+utilizing their platform.&lt;/p&gt;
+&lt;p&gt;What the heck do I mean by that?&lt;/p&gt;
+&lt;p&gt;Take Google Play. The Google Play Store is a package repository for Android from
+which we get all of our applications on our Android phones. The package
+repository idea is fantastic, I love it; it is generally a lot more efficient
+and easy to use than the Windows model of downloading &lt;code&gt;.exe&lt;/code&gt;’s and going to
+various websites to get updates.&lt;/p&gt;
+&lt;p&gt;But here’s the issue: Google does not allow any competition &lt;em&gt;with&lt;/em&gt; the Google
+Play Store—that is, you cannot include in the Google Store an “app store app”
+(see &lt;a href="https://f-droid.org/en/docs/FAQ_-_General/#why-isnt-f-droid-on-google-play"&gt;F-Droid&lt;/a&gt;)—and Google reserves full rights to compete with people using
+its Store—for an example, see Google Lens, distributed through the Play Store,
+which directly competes with the hundreds of QR Code Scanners listed in the
+store.&lt;/p&gt;
+&lt;p&gt;Amazon does this too: a company like Overstock.com can’t exploit Amazon’s
+marketplace to leverage their own marketplace (though it’s difficult to imagine
+how they would; also: they do sell gift cards on Amazon), and Amazon is
+increasingly in competition with its Amazon Marketplace users (see, for
+instance, &lt;a href="https://en.wikipedia.org/wiki/List_of_Amazon_brands#AmazonBasics"&gt;Amazon Basics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These aren’t the only reason proprietary standard platforms are bad. A bigger
+example is Microsoft Windows. While Windows may not be the dominant OS anymore
+(that belongs to Linux via Android, though the technical validity of that
+dominance is debatable—about the only things Linux truly dominates are servers
+and supercomputers) it does still dominate the desktop pc market. Windows, I can
+assure you, through my daily use, is a shithole. It literally &lt;a href="https://www.howtogeek.com/298940/microsoft-please-stop-breaking-my-pc-with-windows-10s-automatic-updates/"&gt;breaks itself
+through updates all the time&lt;/a&gt;. What’s worse is that Windows obfuscates and
+hides its internals from its users, which prevents those users from finding easy
+help to fix. Linux, by contrast &lt;a href="https://unix.stackexchange.com/questions/308525/screen-stays-black-on-wakeup-from-suspend-centos-7"&gt;frequently breaks due to user error, but you
+can easily find help fixing it&lt;/a&gt; (linked is a question literally asked today
+and fixed, as well, on unix.stackexchange.com).&lt;/p&gt;
+&lt;p&gt;Now I’ve mentioned Linux, I think it’s time I explain how all this talk about
+standardization applies to FOSS.&lt;/p&gt;
+&lt;p&gt;Linux is a &lt;em&gt;FOSS&lt;/em&gt; standard platform, in contrast to the properietary standard
+platforms already mentioned. No, Linux is not a standard for desktop pc end
+users. It is a standard for serious computing: &lt;a href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Public_servers_on_the_Internet"&gt;it is used as a server by
+nearly every company in the world&lt;/a&gt;. This is because, unlike Windows, when it
+breaks &lt;em&gt;you generally don’t have to reinstall it&lt;/em&gt;. Furthermore, &lt;em&gt;it rarely
+breaks itself&lt;/em&gt;. Even Arch Linux, contrary to the memes, rarely breaks. But the
+real key to Linux’s dominance are twofold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It is designed by a community of people who recognize that people build
+   serious applications with it and require it to be rock solid and
+   standardized.&lt;/li&gt;
+&lt;li&gt;If the standardized nature of its system isn’t good enough for you, &lt;em&gt;it lets
+   you do with it as you will&lt;/em&gt;. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Perhaps the Libertarians can score one on #1: the standardization of Linux
+(through the &lt;a href="https://en.wikipedia.org/wiki/History_of_Unix"&gt;lineage of Unix&lt;/a&gt;) was built up through a lengthy history of
+undirected evolution. Programmers used Unix, so programmers built Unix up. As
+they did they created a large ecosystem of Free and Open Source Software that is
+standardized and well-documented. The boon to the software economy that this has
+produced is immeasurable.&lt;/p&gt;
+&lt;p&gt;Take Git. We can leave Linux behind, since everyone knows how great the Linux
+success story is. But Git never ceases to amaze me. Linus Torvalds hacked it
+together over the course of two or so months in 2005 with the help of &lt;a href="https://en.wikipedia.org/wiki/Junio_Hamano"&gt;Junio
+Hamano&lt;/a&gt; when the proprietary system they’d been using (BitKeeper) pulled
+their permission. It has since become a Standard FOSS Platform. We can perhaps,
+rather, use the word &lt;em&gt;tool&lt;/em&gt;. Git is a Standard FOSS Tool. And it is a miracle
+tool. To quote &lt;a href="https://twobithistory.org/2018/07/07/cvs.html"&gt;Sinclair Target&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While people sometimes grouse about its steep learning curve or unintuitive
+interface, Git has become everyone’s go-to for version control. In Stack
+Overflow’s 2015 developer survey, 69.3% of respondents used Git, almost twice
+as many as used the second-most-popular version control system, Subversion.
+After 2015, Stack Overflow stopped asking developers about the version control
+systems they use, perhaps because Git had become so popular that the question
+was uninteresting.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Git has assumed this level of dominance for several reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It is ingeniously designed, representing a major leap over the previous
+   bazaar of version control software, and you can realize this by reading from
+   &lt;a href="https://sethrobertson.github.io/GitBestPractices/"&gt;the profusion of old timers saying it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;IT IS FOSS&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The fact that it is FOSS is key. It is because of the governance nature of FOSS
+projects that developers &lt;em&gt;trust&lt;/em&gt; it. It will not release broken updates, it will
+not start stuffing your repository with ads, and it will not incorporate
+money-grabbing features. It’s sole purpose is to help you do your job, and be
+good at it.&lt;/p&gt;
+&lt;p&gt;What’s fantastic about the position of Git, not just for its maintainers, but
+for all of us, is that by having a large, standardized, and open source tool,
+people can do ingenious things with it that they wouldn’t with a proprietary
+tool. Take the latest interesting use of Git I’ve found: &lt;a href="https://www.passwordstore.org/"&gt;&lt;code&gt;pass&lt;/code&gt;&lt;/a&gt;. I just
+set it up the other day, learning how to use (yet another standard FOSS tool)
+&lt;code&gt;gpg&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I have fallen in love with FOSS software because of this quality: it may not be
+the easiest stuff to use, but I can trust it, practically with my life, because
+it is maintained by dedicated volunteers who care about it not breaking people’s
+work, supported by a plethora of developers who use it &lt;a href="https://stackoverflow.com/questions/tagged/git?sort=votes&amp;amp;pageSize=15"&gt;and thus can help other
+developers who use it&lt;/a&gt;, and because it allows its users to do some pretty
+interesting things with it.&lt;/p&gt;
+&lt;p&gt;Some of my Standard FOSS Tools right now:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arch Linux with i3 and urxvt (Linux is a standard, though i3 and urxvt
+  probably aren’t)&lt;/li&gt;
+&lt;li&gt;Neovim with which I am literally typing this (based on, of course, Vim, based
+  on, of course, Vi; the standard is, of course, &lt;a href="https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"&gt;The Zen of Vi&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Flask&lt;/li&gt;
+&lt;li&gt;MariaDB (an implementation of MySQL)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have literally added to this toolchain the past two weeks: GnuPG (an
+implementation of PGP).&lt;/p&gt;
+&lt;p&gt;Even Markdown, the format I’m writing this in, which is far from &lt;em&gt;standardized&lt;/em&gt;,
+though it is a standard, amazes me with its utility. (It is an open
+specification, but it is not maintained except in a bazaar of implementations,
+as John Gruber seems to prefer.)&lt;/p&gt;
+&lt;p&gt;There is something absolutely amazing about the age, pedigree, and commonality
+of these tools. Notice I said pedigree. Many of these tools have such storied
+histories, have had so many thousands of programmers hacking away at them, some
+of them being lovingly reimplemented many times, that they have accreted
+incredible utility. Let me quote a bit from Neal’s extended essay:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The file systems of Unix machines all have the same general structure. On your
+flimsy operating systems, you can create directories (folders) and give them
+names like Frodo or My Stuff and put them pretty much anywhere you like. But
+under Unix the highest level—the root—of the filesystem is always designated
+with the single character “&lt;code&gt;/&lt;/code&gt;” and it always contains the same top level
+directories:&lt;/p&gt;
+&lt;p&gt;/usr /etc /var /bin /proc /boot /home /root /sbin /dev /lib /tmp&lt;/p&gt;
+&lt;p&gt;Each of these directories typically has its own distinct structure of
+subdirectories. Note the obsessive use of abbreviations and avoidance of
+capital letters; this is a system invented by people to whom repetitive stress
+disorder is what black lung is to miners. Long names get worn down to three-
+or four-letter nubbins, like stones smoothed by a river.&lt;/p&gt;
+&lt;p&gt;This is not the place to explain why each of the above directories exists and
+what is contained in them. At first it all seems obscure; worse, it seems
+deliberately obscure. When I started using Linux, I was accustomed to being
+able to create directories wherever I wanted and to give them whatever names
+struck my fancy. Under Unix you are free to do that, of course (you are free
+to do anything), but as you gain experience with the system you come to
+understand that the directories listed above were created for the best of
+reasons and that your life will be much easier if you follow along. (Within
+&lt;code&gt;/home&lt;/code&gt;, by the way, you have pretty much unlimited freedom.)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The Unix Hacker" src="https://malan88.github.io/images/dilbert.png"&gt;&lt;/p&gt;
+&lt;p&gt;After this kind of thing has happened several hundreds or thousand of times,
+the hacker understands why Unix is the way it is, and agrees it wouldn’t be
+the same any other way. It is this sort of acculturation that gives Unix
+hackers their confidence in the system and the attitude of calm, unshakable,
+annoying superiority captured in the &lt;em&gt;Dilbert&lt;/em&gt; cartoon. Windows 95 and MacOS
+are products, contrived by engineers in the service of specific companies.
+Unix, by contrast, is not so much a product as it is a painstakingly compiled
+oral history of the hacker subculture. It is our &lt;em&gt;Gilgamesh&lt;/em&gt; epic.&lt;/p&gt;
+&lt;p&gt;What made old epics like Gilgamesh so powerful and so long-lived was that they
+were living bodies of narrative that many people knew by heart, and told over
+and over again—making their own personal embellishments whenever it struck
+their fancy. The bad embellishments were shouted down, the good ones picked up
+by others, polished, improved and, over time, incorporated into the story.
+Likewise, Unix is known, loved, and understood by so many hackers that it can
+be recreated from scratch whenever someone needs it.This is very difficult to
+understand for people who are accustomed to thinking of OSes as things that
+absolutely have to be created by a company and bought.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is why FOSS is high culture. To quote Wikipedia, another FOSS project:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;High culture encompasses the cultural products of aesthetic value, which a
+society collectively esteem as exemplary art. It may also include intellectual
+works considered to be of supreme philosophical, historical, or literary
+value, as well as the education which cultivates such aesthetic and
+intellectual pursuits. In popular usage, the term high culture identifies the
+culture of an upper class (an aristocracy) or of a status class (the
+intelligentsia); and also identifies a society’s common repository of
+broad-range knowledge and tradition (e.g. folk culture) that transcends the
+social-class system of the society. Sociologically, the term high culture is
+contrasted with the term low culture, the forms of popular culture
+characteristic of the less-educated social classes, such as the barbarians,
+the Philistines, and hoi polloi (the masses).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Can anyone possibly say that what Stephenson just described is not a cultural
+product of exemplary value? If we take software as art, which it easily could
+be, given the aesthetic value applied to code by hackers everywhere, &lt;em&gt;then FOSS
+is frequently high culture&lt;/em&gt;. And this is why I love FOSS.&lt;/p&gt;
+&lt;p&gt;MariaDB, from my list, is a fascinating case because it’s not at all a standard,
+but it’s &lt;em&gt;identical&lt;/em&gt; to a standard, MySQL. I’ve been using it because I distrust
+Oracle.&lt;/p&gt;
+&lt;p&gt;Which brings me back to the proprietary standards.&lt;/p&gt;
+&lt;p&gt;When I was setting up &lt;code&gt;pass&lt;/code&gt; recently, I generated two &lt;code&gt;gpg&lt;/code&gt; keys as well. In
+the process, I learned quite a lot.&lt;/p&gt;
+&lt;p&gt;One of the things I looked into was how to protect my keys. If I lose them, I
+lose access to all the passwords I have encrypted and stored in &lt;code&gt;pass&lt;/code&gt; using
+them. So I ended up finding &lt;a href="https://security.stackexchange.com/questions/51771/where-do-you-store-your-personal-private-gpg-key"&gt;this suggestion on security.se to print them as QR
+codes&lt;/a&gt;. After I generated these codes, I had to test them by reading them
+back into my phone.&lt;/p&gt;
+&lt;p&gt;Now, as I’ve already mentioned, I’m a sucker for standards. I have an Android
+phone, and since I’m not a fan of installing excessive amounts of software (I am
+a pretty vicious bloat-remover) I decided to use a pre-installed Google package
+to scan the QR code: Google Lens.&lt;/p&gt;
+&lt;p&gt;Except, Google Lens doesn’t think you’ll use the QR scanner for anything except
+a Google search. When I scanned my key QR code, there was no option to copy the
+text to a clipboard. So I had to go looking for something else, and settled on
+Trend Micro’s QR code scanner after looking through the Play Store for a while
+and seeing nothing but the general crap on offer there (ad-bloated mediocre
+pieces of software written in 10 days and rarely updated so the author can
+generate revenue). Then, I had to paste the text from the scan into a text
+editor so I could combine it (I had had to split my key across several QR codes
+because it was too much data). So I had to find a text editor. The same problem
+was presented as before: there aren’t any good text editors for the phone. I
+settled on QuickEdit which had too many ads.&lt;/p&gt;
+&lt;p&gt;In the end it worked, but I was struck by how shitty the experience of getting
+it into my phone was in contrast to creating it. There were no standard FOSS
+tools on the Android Play store. Why? How is it that no one has made a decent
+FOSS QR Scanner, or that Google hasn’t just built one into the phone yet? How is
+it that there isn’t a built in text editor? Even Microsoft’s Notepad would
+serve!&lt;/p&gt;
+&lt;p&gt;This is why proprietary standards suck. F-Droid has multiple QR Code scanners
+that look pretty respectable, and multiple text editors that look pretty
+respectable. Why does nothing like these exist on Google Play?&lt;/p&gt;
+&lt;p&gt;Similar problems have presented themselves to me on Amazon. Search for a quality
+copy of &lt;a href="https://en.wikipedia.org/wiki/Winesburg,_Ohio"&gt;&lt;em&gt;Winesburg, Ohio&lt;/em&gt; by Sherwood Anderson&lt;/a&gt; and see if you can find
+one. All I’ve found are, like the plethora of crappy apps on the Google Play
+Store, badly-formatted copies of a public domain book generated in 10 minutes
+by people exploiting Amazon’s CreateSpace platform to generate dollars with
+minimal work.&lt;/p&gt;
+&lt;p&gt;There are competitors to these platforms, but it’s really a joke to expect them
+to ever compete. &lt;a href="https://joinmastodon.org/"&gt;Mastadon&lt;/a&gt; is awesome, but I’m not sure I see it ever
+taking down Twitter (we can argue that Donald Trump’s use of Twitter alone has
+already made Twitter a target of nationalization). There are no real FOSS
+competitors to Facebook. DuckDuckGo might be a legitimate competitor to Google,
+but it’s a legitimate competitor only in the sense that Linux was a legitimate
+competitor to Microsoft in the mid-2000’s: that is to say, not really, only for
+power users and geeks.&lt;/p&gt;
+&lt;p&gt;If a private platform becomes so essential to society that it cannot be
+eliminated without causing serious economic problems, and yet, through
+profit-hungry motives proceeds to degrade its own product, &lt;em&gt;it must be
+institutionalized&lt;/em&gt;. It must be &lt;em&gt;standardized&lt;/em&gt;. Of the FAANGs, several, in
+particular Google, Amazon, and Facebook, are nearing the point where their
+continuous degredation is becoming so grave a problem that it will soon be time
+to nationalize them. Or at the very least regulate them as heavily as we once
+regulated Ma Bell.&lt;/p&gt;
+&lt;p&gt;Don’t even get me started on the telecoms.&lt;/p&gt;</content><category term="first"></category><category term="introduction"></category></entry></feed>
