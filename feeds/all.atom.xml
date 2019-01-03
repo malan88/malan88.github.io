@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>malan</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/all.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2018-01-02T15:45:00-05:00</updated><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2018-01-02T15:45:00-05:00</published><updated>2018-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2018-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;br&gt;
-This is literally my first post on a blog since I was a teenager.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>malan</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/all.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2018-01-02T15:45:00-05:00</updated><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2018-01-02T15:45:00-05:00</published><updated>2018-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2018-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;In which malan introduces himself.&lt;/h2&gt;
+&lt;p&gt;This is literally my first post on a blog since I was a teenager.&lt;/p&gt;
 &lt;p&gt;I’ll start by introducing myself. I’ll remain somewhat anonymous, going by
 malan (malan is surprisingly popular as a username and I don’t at all get why,
 so a common handle for me is &lt;code&gt;malan88&lt;/code&gt;; yes, I was born in 1988). I’m a
@@ -22,10 +23,10 @@ GitHub &lt;code&gt;README.md&lt;/code&gt;’s. I could have done that myself.&lt
 serve as blog posts and decided to make one. It’ll hopefully be useful for &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;documenting my technological endeavors,&lt;/li&gt;
-&lt;li&gt;serve as an outlet for a rather pent up need to talk about various things
-   (this blog will also end up with political and philosophical and
+&lt;li&gt;serving as an outlet for a rather pent-up need to talk about various things
+   (this blog will also end up with political, philosophical, and
    artistical-critical [is that a thing?] posts), and&lt;/li&gt;
-&lt;li&gt;maybe one day serve as a semi-portfolio (personal tech blogs are all the
+&lt;li&gt;maybe one day serving as a semi-portfolio (personal tech blogs are all the
    rage, to which the existence of GitHub Pages should attest).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;As you will hopefully have recognized by now, I am a pedant. I am obsessed with
@@ -35,6 +36,7 @@ technology through rather interesting channels upon which I may (or may not)
 eventually elaborate. Open source technology is another high brow subject in my
 opinion. Don’t know why that is, but it is. So perhaps I’ll just express a few
 of my feelings on FOSS to get the ball rolling.&lt;/p&gt;
+&lt;h2&gt;In which malan attempts to define “standards” and does a really mediocre job of it totally unbecoming of his training as a philosopher.&lt;/h2&gt;
 &lt;p&gt;One of the fundamental things in this world that I believe in, something that I
 believe stimulates growth above and beyone nearly anything government or society
 can do, is &lt;em&gt;standardization&lt;/em&gt;. We might also call it platformization. The basic
@@ -93,6 +95,7 @@ unlike reality now, where the transportation industry is very competitive. The
 transfer of wealth to commerce in artificially low tolls is enormous and has
 fueled much of the growth of the twentieth century (beside that fueled by
 advancements in technology, globalization, etc.).&lt;/p&gt;
+&lt;h2&gt;In which malan criticizes the FAANG’s&lt;/h2&gt;
 &lt;p&gt;Now consider Google. It’s a platform, and a fairly standard one. Amazon is too.
 By standard I mean that it’s a platform (product, specification, etc.) used by
 the majority (if not super-majority) of people in the economy. We’re living in a
@@ -126,7 +129,7 @@ store.&lt;/p&gt;
 marketplace to leverage their own marketplace (though it’s difficult to imagine
 how they would; also: they do sell gift cards on Amazon), and Amazon is
 increasingly in competition with its Amazon Marketplace users (see, for
-instance, &lt;a href="https://en.wikipedia.org/wiki/List_of_Amazon_brands#AmazonBasics"&gt;Amazon Basics&lt;/a&gt;.&lt;/p&gt;
+instance, &lt;a href="https://en.wikipedia.org/wiki/List_of_Amazon_brands#AmazonBasics"&gt;Amazon Basics&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;These aren’t the only reason proprietary standard platforms are bad. A bigger
 example is Microsoft Windows. While Windows may not be the dominant OS anymore
 (that belongs to Linux via Android, though the technical validity of that
@@ -135,12 +138,13 @@ and supercomputers) it does still dominate the desktop pc market. Windows, I can
 assure you, through my daily use, is a shithole. It literally &lt;a href="https://www.howtogeek.com/298940/microsoft-please-stop-breaking-my-pc-with-windows-10s-automatic-updates/"&gt;breaks itself
 through updates all the time&lt;/a&gt;. What’s worse is that Windows obfuscates and
 hides its internals from its users, which prevents those users from finding easy
-help to fix. Linux, by contrast &lt;a href="https://unix.stackexchange.com/questions/308525/screen-stays-black-on-wakeup-from-suspend-centos-7"&gt;frequently breaks due to user error, but you
+help to fix it. Linux, by contrast &lt;a href="https://unix.stackexchange.com/questions/308525/screen-stays-black-on-wakeup-from-suspend-centos-7"&gt;frequently breaks due to user error, but you
 can easily find help fixing it&lt;/a&gt; (linked is a question literally asked today
-and fixed, as well, on unix.stackexchange.com).&lt;/p&gt;
-&lt;p&gt;Now I’ve mentioned Linux, I think it’s time I explain how all this talk about
-standardization applies to FOSS.&lt;/p&gt;
-&lt;p&gt;Linux is a &lt;em&gt;FOSS&lt;/em&gt; standard platform, in contrast to the properietary standard
+and fixed, as well, on unix.se).&lt;/p&gt;
+&lt;h2&gt;In which malan discusses FOSS as it relates to standards.&lt;/h2&gt;
+&lt;p&gt;Now that I’ve mentioned Linux, I think it’s time I explain how all this talk
+about standardization applies to FOSS.&lt;/p&gt;
+&lt;p&gt;Linux is a &lt;em&gt;FOSS&lt;/em&gt; standard platform, in contrast to the proprietary standard
 platforms already mentioned. No, Linux is not a standard for desktop pc end
 users. It is a standard for serious computing: &lt;a href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Public_servers_on_the_Internet"&gt;it is used as a server by
 nearly every company in the world&lt;/a&gt;. This is because, unlike Windows, when it
@@ -148,9 +152,11 @@ breaks &lt;em&gt;you generally don’t have to reinstall it&lt;/em&gt;. Furtherm
 breaks itself&lt;/em&gt;. Even Arch Linux, contrary to the memes, rarely breaks. But the
 real key to Linux’s dominance are twofold:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;It is designed by a community of people who recognize that people build
+&lt;li&gt;It is maintained by a community of people who recognize that its users build
    serious applications with it and require it to be rock solid and
-   standardized.&lt;/li&gt;
+   standardized (it mostly follows the &lt;a href="https://en.wikipedia.org/wiki/Linux_Standard_Base"&gt;Linux Standard Base&lt;/a&gt; standard, which
+   is mostly a superset of &lt;a href="https://en.wikipedia.org/wiki/POSIX"&gt;POSIX&lt;/a&gt;; yes, I pulled this from a &lt;a href="https://stackoverflow.com/questions/8333631/linux-posix-compliance-list"&gt;stackoverflow
+   question&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;If the standardized nature of its system isn’t good enough for you, &lt;em&gt;it lets
    you do with it as you will&lt;/em&gt;. &lt;/li&gt;
 &lt;/ol&gt;
@@ -160,9 +166,9 @@ undirected evolution. Programmers used Unix, so programmers built Unix up. As
 they did they created a large ecosystem of Free and Open Source Software that is
 standardized and well-documented. The boon to the software economy that this has
 produced is immeasurable.&lt;/p&gt;
-&lt;p&gt;Take Git. We can leave Linux behind, since everyone knows how great the Linux
-success story is. But Git never ceases to amaze me. Linus Torvalds hacked it
-together over the course of two or so months in 2005 with the help of &lt;a href="https://en.wikipedia.org/wiki/Junio_Hamano"&gt;Junio
+&lt;p&gt;Now take Git. We can leave Linux behind, since everyone knows how great the
+Linux success story is. But Git never ceases to amaze me. Linus Torvalds hacked
+it together over the course of two or so months in 2005 with the help of &lt;a href="https://en.wikipedia.org/wiki/Junio_Hamano"&gt;Junio
 Hamano&lt;/a&gt; when the proprietary system they’d been using (BitKeeper) pulled
 their permission. It has since become a Standard FOSS Platform. We can perhaps,
 rather, use the word &lt;em&gt;tool&lt;/em&gt;. Git is a Standard FOSS Tool. And it is a miracle
@@ -179,8 +185,8 @@ was uninteresting.&lt;/p&gt;
 &lt;p&gt;Git has assumed this level of dominance for several reasons:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;It is ingeniously designed, representing a major leap over the previous
-   bazaar of version control software, and you can realize this by reading from
-   &lt;a href="https://sethrobertson.github.io/GitBestPractices/"&gt;the profusion of old timers saying it&lt;/a&gt;&lt;/li&gt;
+   bazaar of version control software: you can see this by reading from &lt;a href="https://sethrobertson.github.io/GitBestPractices/"&gt;the
+   profusion of old timers saying it&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;IT IS FOSS&lt;/em&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;The fact that it is FOSS is key. It is because of the governance nature of FOSS
@@ -188,6 +194,8 @@ projects that developers &lt;em&gt;trust&lt;/em&gt; it. It will not release brok
 not start stuffing your repository with ads, and it will not incorporate
 money-grabbing features. It’s sole purpose is to help you do your job, and be
 good at it.&lt;/p&gt;
+&lt;p&gt;Of course, there are bad FOSS projects, which is why it’s generally better to
+use a FOSS project that’s big.&lt;/p&gt;
 &lt;p&gt;What’s fantastic about the position of Git, not just for its maintainers, but
 for all of us, is that by having a large, standardized, and open source tool,
 people can do ingenious things with it that they wouldn’t with a proprietary
@@ -196,23 +204,20 @@ set it up the other day, learning how to use (yet another standard FOSS tool)
 &lt;code&gt;gpg&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;I have fallen in love with FOSS software because of this quality: it may not be
 the easiest stuff to use, but I can trust it, practically with my life, because
-it is maintained by dedicated volunteers who care about it not breaking people’s
-work, supported by a plethora of developers who use it &lt;a href="https://stackoverflow.com/questions/tagged/git?sort=votes&amp;amp;pageSize=15"&gt;and thus can help other
-developers who use it&lt;/a&gt;, and because it allows its users to do some pretty
-interesting things with it.&lt;/p&gt;
+it is maintained by dedicated volunteers who care about it not breaking
+anybody’s work, supported by a plethora of developers who use it &lt;a href="https://stackoverflow.com/questions/tagged/git?sort=votes&amp;amp;pageSize=15"&gt;and thus can
+help other developers who use it&lt;/a&gt;, and because it allows its users to do
+some pretty interesting things with it.&lt;/p&gt;
 &lt;p&gt;Some of my Standard FOSS Tools right now:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Arch Linux with i3 and urxvt (Linux is a standard, though i3 and urxvt
-  probably aren’t)&lt;/li&gt;
-&lt;li&gt;Neovim with which I am literally typing this (based on, of course, Vim, based
-  on, of course, Vi; the standard is, of course, &lt;a href="https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"&gt;The Zen of Vi&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Linux (in the form of Arch Linux)&lt;/li&gt;
+&lt;li&gt;Vi (in the form of Neovim)&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
-&lt;li&gt;Flask&lt;/li&gt;
-&lt;li&gt;MariaDB (an implementation of MySQL)&lt;/li&gt;
+&lt;li&gt;MySQL (in the form of MariaDB)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I have literally added to this toolchain the past two weeks: GnuPG (an
-implementation of PGP).&lt;/p&gt;
+&lt;p&gt;I have literally added in the past three days GnuPG (an implementation of the
+PGP standard) to this toolchain.&lt;/p&gt;
 &lt;p&gt;Even Markdown, the format I’m writing this in, which is far from &lt;em&gt;standardized&lt;/em&gt;,
 though it is a standard, amazes me with its utility. (It is an open
 specification, but it is not maintained except in a bazaar of implementations,
@@ -221,7 +226,8 @@ as John Gruber seems to prefer.)&lt;/p&gt;
 of these tools. Notice I said pedigree. Many of these tools have such storied
 histories, have had so many thousands of programmers hacking away at them, some
 of them being lovingly reimplemented many times, that they have accreted
-incredible utility. Let me quote a bit from Neal’s extended essay:&lt;/p&gt;
+incredible utility. Let me quote a bit from Neal Stephenson’s extended essay
+&lt;a href="https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line"&gt;&lt;em&gt;In the Beginning... Was the Command Line&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The file systems of Unix machines all have the same general structure. On your
 flimsy operating systems, you can create directories (folders) and give them
@@ -285,6 +291,7 @@ is frequently high culture&lt;/em&gt;. And this is why I love FOSS.&lt;/p&gt;
 &lt;p&gt;MariaDB, from my list, is a fascinating case because it’s not at all a standard,
 but it’s &lt;em&gt;identical&lt;/em&gt; to a standard, MySQL. I’ve been using it because I distrust
 Oracle.&lt;/p&gt;
+&lt;h2&gt;In which malan describes a really bad experience on a proprietary standard platform and concludes that something should be done about it.&lt;/h2&gt;
 &lt;p&gt;Which brings me back to the proprietary standards.&lt;/p&gt;
 &lt;p&gt;When I was setting up &lt;code&gt;pass&lt;/code&gt; recently, I generated two &lt;code&gt;gpg&lt;/code&gt; keys as well. In
 the process, I learned quite a lot.&lt;/p&gt;
@@ -298,12 +305,12 @@ phone, and since I’m not a fan of installing excessive amounts of software (I 
 a pretty vicious bloat-remover) I decided to use a pre-installed Google package
 to scan the QR code: Google Lens.&lt;/p&gt;
 &lt;p&gt;Except, Google Lens doesn’t think you’ll use the QR scanner for anything except
-a Google search. When I scanned my key QR code, there was no option to copy the
-text to a clipboard. So I had to go looking for something else, and settled on
-Trend Micro’s QR code scanner after looking through the Play Store for a while
-and seeing nothing but the general crap on offer there (ad-bloated mediocre
-pieces of software written in 10 days and rarely updated so the author can
-generate revenue). Then, I had to paste the text from the scan into a text
+a Google search. When I scanned my key’s QR code, there was no option to copy
+the text to a clipboard. So I had to go looking for something else, and settled
+on Trend Micro’s QR code scanner after looking through the Play Store for a
+while and seeing nothing but the general crap on offer there (ad-bloated
+mediocre pieces of software written in 10 days and rarely updated so the author
+can generate revenue). Then, I had to paste the text from the scan into a text
 editor so I could combine it (I had had to split my key across several QR codes
 because it was too much data). So I had to find a text editor. The same problem
 was presented as before: there aren’t any good text editors for the phone. I
