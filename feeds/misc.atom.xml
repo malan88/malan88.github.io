@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>malan - misc</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2018-01-02T15:45:00-05:00</updated><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2018-01-02T15:45:00-05:00</published><updated>2018-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2018-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;In which malan introduces himself.&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>malan - misc</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2019-01-02T15:45:00-05:00</updated><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2019-01-02T15:45:00-05:00</published><updated>2019-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2019-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and
+rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;In which malan introduces himself and kvetches.&lt;/h2&gt;
 &lt;p&gt;This is literally my first post on a blog since I was a teenager.&lt;/p&gt;
 &lt;p&gt;I’ll start by introducing myself. I’ll remain somewhat anonymous, going by
 malan (malan is surprisingly popular as a username and I don’t at all get why,
@@ -36,7 +36,8 @@ technology through rather interesting channels upon which I may (or may not)
 eventually elaborate. Open source technology is another high brow subject in my
 opinion. Don’t know why that is, but it is. So perhaps I’ll just express a few
 of my feelings on FOSS to get the ball rolling.&lt;/p&gt;
-&lt;h2&gt;In which malan attempts to define “standards” and does a really mediocre job of it totally unbecoming of his training as a philosopher.&lt;/h2&gt;
+&lt;h2&gt;In which malan attempts to define “standards” and does a mediocre job of it&lt;/h2&gt;
+&lt;h2&gt;totally unbecoming of his training as a philosopher.&lt;/h2&gt;
 &lt;p&gt;One of the fundamental things in this world that I believe in, something that I
 believe stimulates growth above and beyone nearly anything government or society
 can do, is &lt;em&gt;standardization&lt;/em&gt;. We might also call it platformization. The basic
@@ -250,7 +251,7 @@ to do anything), but as you gain experience with the system you come to
 understand that the directories listed above were created for the best of
 reasons and that your life will be much easier if you follow along. (Within
 &lt;code&gt;/home&lt;/code&gt;, by the way, you have pretty much unlimited freedom.)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="The Unix Hacker" src="https://malan88.github.io/images/dilbert.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The Unix Hacker" src="https://malan88.github.io/images/dilbert.png" /&gt;&lt;/p&gt;
 &lt;p&gt;After this kind of thing has happened several hundreds or thousand of times,
 the hacker understands why Unix is the way it is, and agrees it wouldn’t be
 the same any other way. It is this sort of acculturation that gives Unix
@@ -291,7 +292,8 @@ is frequently high culture&lt;/em&gt;. And this is why I love FOSS.&lt;/p&gt;
 &lt;p&gt;MariaDB, from my list, is a fascinating case because it’s not at all a standard,
 but it’s &lt;em&gt;identical&lt;/em&gt; to a standard, MySQL. I’ve been using it because I distrust
 Oracle.&lt;/p&gt;
-&lt;h2&gt;In which malan describes a really bad experience on a proprietary standard platform and concludes that something should be done about it.&lt;/h2&gt;
+&lt;h2&gt;In which malan describes a particularly awful experience on a proprietary&lt;/h2&gt;
+&lt;h2&gt;standard platform and concludes that something should be done about it.&lt;/h2&gt;
 &lt;p&gt;Which brings me back to the proprietary standards.&lt;/p&gt;
 &lt;p&gt;When I was setting up &lt;code&gt;pass&lt;/code&gt; recently, I generated two &lt;code&gt;gpg&lt;/code&gt; keys as well. In
 the process, I learned quite a lot.&lt;/p&gt;

@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>malan</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/all.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2018-01-02T15:45:00-05:00</updated><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2018-01-02T15:45:00-05:00</published><updated>2018-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2018-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h2&gt;In which malan introduces himself.&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>malan</title><link href="https://malan88.github.io/" rel="alternate"></link><link href="https://malan88.github.io/feeds/all.atom.xml" rel="self"></link><id>https://malan88.github.io/</id><updated>2019-01-04T11:52:00-05:00</updated><entry><title>Everything I Needed to Know About Form W2</title><link href="https://malan88.github.io/everything-i-needed-to-know-about-form-w2.html" rel="alternate"></link><published>2019-01-04T11:52:00-05:00</published><updated>2019-01-04T11:52:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2019-01-04:/everything-i-needed-to-know-about-form-w2.html</id><summary type="html">&lt;p&gt;In which malan elucidates the various copies of the IRS Form W2 from
+the perspective of a disgruntled bookkeeper.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;In which malan describes his headache.&lt;/h2&gt;
+&lt;p&gt;This year, like last year, come January, my boss submits to me the urgency that
+we order W2 forms.&lt;/p&gt;
+&lt;p&gt;This year, unlike last year, I had extra copies from last year.&lt;/p&gt;
+&lt;p&gt;However, in Quickbooks, when I selected &lt;code&gt;Save as PDF...&lt;/code&gt; in the W2 creation
+wizard thingy in order to see if I had enough premade forms, I was suddenly
+confronted with a pdf that had 2 W2 tickets per page, and each ticket was for
+a different employee.&lt;/p&gt;
+&lt;p&gt;This, as, if you are actually familiar with W2’s (which, I admit, I
+wasn’t—enough), is not what the employee form looks like. At least not how I
+remembered it. I was perturbed. Did the IRS change the nature of the form? Are
+my forms outdated (despite being blank)?&lt;/p&gt;
+&lt;p&gt;The short answer is &lt;strong&gt;&lt;em&gt;NO&lt;/em&gt;&lt;/strong&gt;, but I had to dig quite a bit to find out, and got
+bad answers from Quickbooks when I called. Literally, they don’t know jack about
+the actual nature of accounting and taxation forms. Some egghead that doesn’t
+answer the phones does.&lt;/p&gt;
+&lt;p&gt;So here is an &lt;em&gt;actual&lt;/em&gt; explanation, for people who have common sense, of the
+nature of the forms that one must print for the annual W2 headache:&lt;/p&gt;
+&lt;div class="admonition warning"&gt;
+&lt;p class="admonition-title"&gt;Warning&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I am not an accountant or a tax expert. This is not official advice and
+may be wrong. It is simply how I understand it.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;If all you read were the Quickbooks “Printing Instructions” in the “Payroll Tax
+Form” wizard, you’d see this box:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;STEP 4 — FILING AND PRINTING INSTRUCTIONS
+
+For each employee there are six different copies of Form W-2:
+
+Copy A to be electronically filed with the Social Security Administration by 01/31/2019
+Copy B to be given to the employee by 01/31/2019
+Copy C with instructions and Notice to Employee to be given to the employee
+Copy D for your records
+Copy 1 to be filed with state and/or local tax departments, if required
+Copy 2 to be given to employee
+
+...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Yada yada yada. Here’s the thing. This barely describes the actual process. It
+implies you have to print &lt;em&gt;six&lt;/em&gt; copies—or at least all the copies that don’t say
+electronically file, which would be five.&lt;/p&gt;
+&lt;p&gt;You don’t.&lt;/p&gt;
+&lt;p&gt;Here’s what’s actually involved:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The employee copy is printed on perforated paper with 3 tickets: this way the
+   employee gets 3 copies of his W2. These are copies B, 2, and C.&lt;ul&gt;
+&lt;li&gt;You could print it on a paper with 4 tickets: copies B, 2, 2, and C, but
+  only if you’re crazy or have employees that have to file a lot of state
+  and local taxes (honestly, in Florida, we have none of that, so we’re all
+  good).&lt;/li&gt;
+&lt;li&gt;The employee filing instructions should already be printed on the back of
+  the form. When you order the perforated copies of the W2, it will be in
+  very light and hard-to-read-for-senior-citizens print on the back. If it
+  &lt;em&gt;isn’t&lt;/em&gt;, you’re going to have to print those out too, and give them to the
+  employees. Believe me, it’s 99% likely already on the back when you order
+  them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The W-3, which is filed electronically. So you don’t have to worry about this
+   (just make sure Quickbooks files all your forms electronically).&lt;/li&gt;
+&lt;li&gt;The employer copy that gets sent to the SSA (which you also do not print
+   because it is filed electronically) is a perforated paper with 2 tickets,
+   upon which 2 employees get printed. This is called Copy A. This is what I
+   thought was the “New 2018 W2 Form” because that’s what was generated when I
+   clicked &lt;code&gt;Save as PDF...&lt;/code&gt; and the help desk at Quickbooks was too stupid to
+   realize wasn’t a new form.&lt;/li&gt;
+&lt;li&gt;The employer copy that gets saved for your records is &lt;em&gt;identical&lt;/em&gt; to the
+   employer copy that gets sent to the SSA. This is called Copy D. There is no
+   reason for us to print it out because we save it as a pdf.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;In which malan makes his conclusion.&lt;/h2&gt;
+&lt;p&gt;And that’s literally it. From what I can tell, you &lt;em&gt;don’t&lt;/em&gt; actually send
+anything to the IRS. You send everything to the SSA and the employee. The
+&lt;em&gt;employee&lt;/em&gt; sends a copy to the IRS in order to get his return. &lt;em&gt;You&lt;/em&gt;, the
+employer, file everything to the SSA. Why, I don’t really know, but that’s my
+understanding and I’m not interested in actually digging into the whys and
+wherefores on this one (I may have Aperger’s, but my “obsessive” and “restricted
+or specialized interests” do not extend to tax forms).&lt;/p&gt;
+&lt;p&gt;So that’s it! Hopefully this saves you a lot of headaches (if anyone ever
+actually reads it) by providing a common sense explanation for what you’re
+actually supposed to print and file.&lt;/p&gt;</content><category term="how-to"></category><category term="business"></category><category term="accounting"></category><category term="payroll"></category><category term="taxes"></category></entry><entry><title>FOSS as High Culture</title><link href="https://malan88.github.io/foss-as-high-culture.html" rel="alternate"></link><published>2019-01-02T15:45:00-05:00</published><updated>2019-01-02T15:45:00-05:00</updated><author><name>malan</name></author><id>tag:malan88.github.io,2019-01-02:/foss-as-high-culture.html</id><summary type="html">&lt;p&gt;In which malan introduces himself to his fictitious audience and
+rambles about FOSS and proprietary standards.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;In which malan introduces himself and kvetches.&lt;/h2&gt;
 &lt;p&gt;This is literally my first post on a blog since I was a teenager.&lt;/p&gt;
 &lt;p&gt;I’ll start by introducing myself. I’ll remain somewhat anonymous, going by
 malan (malan is surprisingly popular as a username and I don’t at all get why,
@@ -36,7 +117,8 @@ technology through rather interesting channels upon which I may (or may not)
 eventually elaborate. Open source technology is another high brow subject in my
 opinion. Don’t know why that is, but it is. So perhaps I’ll just express a few
 of my feelings on FOSS to get the ball rolling.&lt;/p&gt;
-&lt;h2&gt;In which malan attempts to define “standards” and does a really mediocre job of it totally unbecoming of his training as a philosopher.&lt;/h2&gt;
+&lt;h2&gt;In which malan attempts to define “standards” and does a mediocre job of it&lt;/h2&gt;
+&lt;h2&gt;totally unbecoming of his training as a philosopher.&lt;/h2&gt;
 &lt;p&gt;One of the fundamental things in this world that I believe in, something that I
 believe stimulates growth above and beyone nearly anything government or society
 can do, is &lt;em&gt;standardization&lt;/em&gt;. We might also call it platformization. The basic
@@ -250,7 +332,7 @@ to do anything), but as you gain experience with the system you come to
 understand that the directories listed above were created for the best of
 reasons and that your life will be much easier if you follow along. (Within
 &lt;code&gt;/home&lt;/code&gt;, by the way, you have pretty much unlimited freedom.)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="The Unix Hacker" src="https://malan88.github.io/images/dilbert.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The Unix Hacker" src="https://malan88.github.io/images/dilbert.png" /&gt;&lt;/p&gt;
 &lt;p&gt;After this kind of thing has happened several hundreds or thousand of times,
 the hacker understands why Unix is the way it is, and agrees it wouldn’t be
 the same any other way. It is this sort of acculturation that gives Unix
@@ -291,7 +373,8 @@ is frequently high culture&lt;/em&gt;. And this is why I love FOSS.&lt;/p&gt;
 &lt;p&gt;MariaDB, from my list, is a fascinating case because it’s not at all a standard,
 but it’s &lt;em&gt;identical&lt;/em&gt; to a standard, MySQL. I’ve been using it because I distrust
 Oracle.&lt;/p&gt;
-&lt;h2&gt;In which malan describes a really bad experience on a proprietary standard platform and concludes that something should be done about it.&lt;/h2&gt;
+&lt;h2&gt;In which malan describes a particularly awful experience on a proprietary&lt;/h2&gt;
+&lt;h2&gt;standard platform and concludes that something should be done about it.&lt;/h2&gt;
 &lt;p&gt;Which brings me back to the proprietary standards.&lt;/p&gt;
 &lt;p&gt;When I was setting up &lt;code&gt;pass&lt;/code&gt; recently, I generated two &lt;code&gt;gpg&lt;/code&gt; keys as well. In
 the process, I learned quite a lot.&lt;/p&gt;
